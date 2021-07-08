@@ -10,8 +10,7 @@ class Dollar {
     }
 
     public boolean equals(Object object) {
-        // 正解は自明 (return this.amount == object.amount;) だが
-        // 三角測量の説明のために回りくどいコードを書いている。
-        return true;
+        Dollar dollar = (Dollar) object;
+        return this.amount == dollar.amount;
     }
 }
