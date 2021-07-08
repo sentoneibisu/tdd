@@ -5,5 +5,5 @@ Todo
 - [ ] amount を private にする
 - [x] Dollar の副作用どうする？
 - [ ] Money の丸め処理どうする？
-- [ ] equals() があったほうが良い (Dollar は Value Object なので)
+- [ ] **equals() があったほうが良い (Dollar は Value Object なので)**
 - [ ] hashCode() もあったほうが良いかも (ハッシュテーブルのキーとして使いたくなったら必要)
