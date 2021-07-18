@@ -11,5 +11,5 @@ Todo
 - [ ] 他のオブジェクトとの等価性比較
 - [x] 5 CHF * 2 = 10 CHF
 - [ ] Dollar と Franc の重複を削除する
-- [ ] equals の一般化
+- [ ] **equals の一般化**
 - [ ] times の一般化
