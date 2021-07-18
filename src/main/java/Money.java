@@ -3,6 +3,11 @@ abstract class Money {
     protected String currency;
     abstract Money times(int multiplier);
 
+    Money(int amount, String currency) {
+        this.amount = amount;
+        this.currency = currency;
+    }
+
     public boolean equals(Object object) {
         Money money = (Money) object;
         return this.amount == money.amount
