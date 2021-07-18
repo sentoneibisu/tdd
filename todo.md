@@ -10,8 +10,9 @@ Todo
 - [ ] null との等価性比較
 - [ ] 他のオブジェクトとの等価性比較
 - [x] 5 CHF * 2 = 10 CHF
-- [ ] Dollar と Franc の重複を削除する
+- [ ] **Dollar と Franc の重複を削除する**
 - [x] equals の一般化
 - [ ] times の一般化
 - [x] Franc と Dollar を比較する
 - [ ] 通貨の概念を取り入れる
+- [ ] 乗算_Franc() テストを削除する？
